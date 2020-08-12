@@ -21,3 +21,7 @@ html, body, #app {
     margin-top: 15px;
     font-size: 12px;
 }
+/*高度溢出*/
+.el-cascader-menu {
+    height: 200px;
+}
