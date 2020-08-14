@@ -25,3 +25,7 @@ html, body, #app {
 .el-cascader-menu {
     height: 200px;
 }
+/*富文本编辑器*/
+.ql-editor{
+    min-height: 300px;
+}
