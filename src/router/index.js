@@ -1,9 +1,18 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
-// import Login from '../components/Login'
 const Login = () => import('../components/Login')
 const Home = () => import('../components/Home')
+const Welcome = () => import('../components/Welcome')
+const Users = () => import('../components/user/Users')
+const Rights = () => import('../components/power/Rights')
+const Roles = () => import('../components/power/Roles')
+const Cate = () => import('../components/goods/Cate')
+const Params = () => import('../components/goods/Params')
+const List = () => import('../components/goods/List')
+const Add = () => import('../components/goods/Add')
+const Order = ()=>import('../components/order/Order')
+const Report =()=> import('../components/report/Report')
 Vue.use(VueRouter)
 
 const routes = [
@@ -18,8 +27,22 @@ const routes = [
   },
   {
     path: '/home',
-    component: Home
-  }
+    component: Home,
+    redirect: '/welcome',
+    children: [
+      { path: '/welcome', component: Welcome },
+      { path: '/users', component: Users },
+      { path: '/rights', component: Rights },
+      { path: '/roles', component: Roles },
+      { path: '/categories', component: Cate },
+      {path: '/params', component:Params},
+      {path: '/goods', component:List},
+      {path: '/goods/add', component:Add},
+      {path: '/orders', component:Order},
+      {path: '/reports', component:Report}
+    ]
+  },
+
 ]
 
 const router = new VueRouter({
