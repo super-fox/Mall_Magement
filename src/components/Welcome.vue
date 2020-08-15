@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h3>welcome</h3>
+    <h3>welcome!</h3>
   </div>
 </template>
 
@@ -11,5 +11,8 @@
 </script>
 
 <style lang="less" scoped>
-
+  h3 {
+  font-size: 40px;
+    text-align: center;
+  }
 </style>
