@@ -1,4 +1,5 @@
 import Vue from 'vue'
+import 'element-ui/lib/theme-chalk/base.css';
 import {
   Aside,
   Breadcrumb,
@@ -38,7 +39,7 @@ import {
   CheckboxGroup,
   Upload,
   Timeline,
-  TimelineItem
+  TimelineItem,
 } from 'element-ui'
 
 Vue.use(Button)
