@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
-const Login = () => import('../components/Login')
+const Login = () => import('../components/login/Login')
 const Home = () => import('../components/Home')
 const Welcome = () => import('../components/Welcome')
 const Users = () => import('../components/user/Users')
