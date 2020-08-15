@@ -1,5 +1,211 @@
 <template>
   <div class="login_container">
+    <!--    背景图片-->
+    <div class="box">
+      <!-- partial:index.partial.html -->
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <div class="snow"></div>
+      <!-- partial -->
+
+    </div>
     <div class="login_box">
       <!--      头像区域-->
       <div class="avatar_box">
@@ -10,7 +216,7 @@
         <!--          用户名-->
         <el-form-item prop="username">
           <el-input v-model="loginForm.username" prefix-icon="iconfont iconren"></el-input>
-        </el-form-item >
+        </el-form-item>
         <!--        密码-->
         <el-form-item prop="password">
           <el-input v-model="loginForm.password" prefix-icon="iconfont iconmima" show-password></el-input>
@@ -28,40 +234,58 @@
 <script>
   export default {
     name: 'Login',
-    data(){
-      return{
+    data () {
+      return {
         //登录表单的数据验证
-        loginForm:{
-          username:'admin',
-          password:'123456'
+        loginForm: {
+          username: 'admin',
+          password: '123456'
         },
         //登录表单的验证
-        loginFormRules:{
-          username:[
-            { required: true, message: '请输入用户名', trigger: 'blur' },
-            { min: 3, max: 10, message: '长度在 3 到 10 个字符', trigger: 'blur' }
+        loginFormRules: {
+          username: [
+            {
+              required: true,
+              message: '请输入用户名',
+              trigger: 'blur'
+            },
+            {
+              min: 3,
+              max: 10,
+              message: '长度在 3 到 10 个字符',
+              trigger: 'blur'
+            }
           ],
-          password:[
-            { required: true, message: '请输入密码', trigger: 'blur' },
-            { min: 6, max: 15, message: '长度在 6 到 15 个字符', trigger: 'blur' }
+          password: [
+            {
+              required: true,
+              message: '请输入密码',
+              trigger: 'blur'
+            },
+            {
+              min: 6,
+              max: 15,
+              message: '长度在 6 到 15 个字符',
+              trigger: 'blur'
+            }
           ]
         }
       }
     },
-    methods:{
+    methods: {
       //点击重置表单
-      resetLoginForm(){
-        this.$refs.loginFormRef.resetFields();
+      resetLoginForm () {
+        this.$refs.loginFormRef.resetFields()
       },
-      login(){
-        this.$refs.loginFormRef.validate(valid=>{
-          if(!valid) return;
-          this.$http.post('login',this.loginForm).then(res=>{
-            if(res.data.meta.status !== 200) return this.$message.error('登录失败');
+      login () {
+        this.$refs.loginFormRef.validate(valid => {
+          if (!valid) return
+          this.$http.post('login', this.loginForm).then(res => {
+            if (res.data.meta.status !== 200) return this.$message.error('登录失败')
             this.$message.success('登录成功')
             console.log(res)
             //将token保存在sessionStorage中
-            window.sessionStorage.setItem('token',res.data.data.token)
+            window.sessionStorage.setItem('token', res.data.data.token)
             //跳转到后台主页, 路由地址/home
             this.$router.push('/home')
           })
@@ -73,7 +297,8 @@
 
 <style lang="less" scoped>
   .login_container {
-    background-color: #2b4b6b;
+    background: url("../assets/image/login/login.jpg") no-repeat;
+    background-size: 100% 100%;
     height: 100vh;
   }
 

@@ -4,6 +4,7 @@ import router from './router'
 import './plugins/element.js'
 // 引入全局样式
 import './assets/css/global.css'
+import './assets/css/login.css'
 //引入字体图标
 import './assets/fonts/iconfont.css'
 //引入vue-table-with-tree-grid
