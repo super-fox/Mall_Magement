@@ -16,7 +16,7 @@
         <el-menu background-color="#333744" text-color="#fff"
                  active-text-color="#409EFF" unique-opened
                  :collapse="isCollapse" :collapse-transition="false"
-                 :router="true" default-active="/users">
+                 :router="true" default-active="/welcome">
           <!--          一级菜单-->
           <el-submenu :index="item.id+''" v-for="item in menuList" :key="item.id">
             <!--            一级菜单模板区-->
